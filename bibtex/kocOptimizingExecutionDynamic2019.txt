@@ -1,0 +1,10 @@
+
+@article{kocOptimizingExecutionDynamic2019,
+	title = {Optimizing the {Execution} of {Dynamic} {Robot} {Movements} with {Learning} {Control}},
+	volume = {35},
+	number = {4},
+	journal = {Transaction on Robotics (TRO)},
+	author = {Koc, Okan and Maeda, Guilherme and Peters, Jan},
+	year = {2019},
+	pages = {909--924},
+}
