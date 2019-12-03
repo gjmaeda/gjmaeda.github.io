@@ -1,0 +1,9 @@
+@article{KocMaePet18,
+title = {Online optimal trajectory generation for robot table tennis},
+author = {Koc, O. and Maeda, G. and Peters, J.},
+journal = {Robotics and Autonomous Systems},
+volume = {105},
+pages = {121–137},
+year = {2018},
+url = {http://www.sciencedirect.com/science/article/pii/S0921889017306164}
+}

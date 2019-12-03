@@ -1,0 +1,9 @@
+@article{ewerton2019learning,
+  title={Learning Trajectory Distributions for Assisted Teleoperation and Path Planning},
+  author={Ewerton, Marco and Arenz, Oleg and Maeda, Guilherme and Koert, Dorothea and Kolev, Zlatko and Takahashi, Masaki and Peters, Jan},
+  journal={Frontiers in Robotics and AI},
+  volume={6},
+  pages={89},
+  year={2019},
+  publisher={Frontiers}
+}
