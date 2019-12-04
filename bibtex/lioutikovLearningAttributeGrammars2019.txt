@@ -1,0 +1,11 @@
+
+@article{lioutikovLearningAttributeGrammars2019,
+  title = {Learning {{Attribute Grammars}} for {{Movement Primitive Sequencing}}},
+  doi = {10.1177/0278364919868279.},
+  issue = {In press.},
+  journaltitle = {The International Journal of Robotics Research (IJRR)},
+  date = {2019},
+  author = {Lioutikov, Rudolf and Maeda, Guilherme and Veiga, Filipe and Kersting, Kristian and Peters, Jan},
+}
+
+

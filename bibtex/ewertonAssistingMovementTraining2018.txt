@@ -1,0 +1,7 @@
+@Article{ewertonAssistingMovementTraining2018,
+author = {Ewerton, M. and Rother, D. and Weimar, J. and Kollegger, G. and Wiemeyer, J. and Peters, J. and Maeda, G.},
+title = {Assisting Movement Training and Execution with Visual and Haptic Feedback},
+year = {2018},
+url = {https://www.frontiersin.org/articles/10.3389/fnbot.2018.00024/abstract},
+booktitle = {Frontiers in neurorobotics}
+}
