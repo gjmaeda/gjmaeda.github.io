@@ -1,0 +1,6 @@
+@inproceedings{ewertoniros2019reinforcement,
+  title={Reinforcement learning of trajectory distributions: Applications in assisted teleoperation and motion planning},
+  author={Ewerton, Marco and Maeda, Guilherme and Koert, Dorothea and Kolev, Zlatko and Takahashi, Masaki and Peters, Jan},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2019}
+}
