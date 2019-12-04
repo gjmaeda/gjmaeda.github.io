@@ -1,0 +1,10 @@
+
+@inproceedings{hong2019swarm,
+  title = {Swarm-Inspired Reinforcement Learning via Collaborative Inter-Agent Knowledge Distillation},
+  booktitle = {{{NeurIPS}} 2019 Deep Reinforcement Learning Workshop},
+  date = {2019-12},
+  author = {Zhangwei, Hong and Nagarajan, Prabhat and Maeda, Guilherme},
+  venue = {Vancouver, Canada}
+}
+
+
