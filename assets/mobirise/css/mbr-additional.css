@@ -710,7 +710,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rJBn3T8pcH {
-  background-image: url("../../../assets/images/banner3-sharp-1299x6262.jpg");
+  background-image: url("../../../assets/images/banner3-sharp-1299x626.jpg");
 }
 .cid-rJBn3T8pcH P {
   color: #767676;
@@ -730,9 +730,18 @@ section.lazy-placeholder:after {
 .cid-rJBn3T8pcH DIV {
   text-align: center;
 }
+.cid-rJNkonYHDL {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rJNkonYHDL .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
 .cid-rJpusLPIWd {
-  padding-top: 45px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-rJpusLPIWd .counter-container {
@@ -770,8 +779,17 @@ section.lazy-placeholder:after {
 .cid-rJpusLPIWd .mbr-text {
   color: #232323;
 }
+.cid-rJNjOuA7F2 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rJNjOuA7F2 .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
 .cid-rJMQMgT5Bj {
-  padding-top: 90px;
+  padding-top: 15px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
