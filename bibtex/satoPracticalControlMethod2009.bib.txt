@@ -1,0 +1,10 @@
+
+@article{satoPracticalControlMethod2009,
+  title = {A Practical Control Method for Precision Motion \textendash{} {{Improvement}} of {{NCTF}} Control Method for Continuous Motion Control},
+  volume = {33},
+  number = {2},
+  journal = {Precision Engineering},
+  author = {Sato, K. and Maeda, G.J.},
+  year = {2009},
+  pages = {175--186}
+}

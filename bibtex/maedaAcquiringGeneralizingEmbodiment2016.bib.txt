@@ -1,0 +1,15 @@
+
+@article{maedaAcquiringGeneralizingEmbodiment2016,
+  title = {Acquiring and {{Generalizing}} the {{Embodiment Mapping From Human Observations}} to {{Robot Skills}}},
+  volume = {1},
+  issn = {2377-3766},
+  number = {2},
+  journal = {IEEE Robotics and Automation Letters},
+  doi = {10.1109/LRA.2016.2525038},
+  author = {Maeda, G. and Ewerton, M. and Koert, D. and Peters, J.},
+  month = jul,
+  year = {2016},
+  keywords = {7 degree-of-freedom,DoF arm,embodiment mapping,golf swing,human demonstrator,Human Factors and Human-in-the-Loop,human observations,human-robot structural associations,intelligent robots,kinematic mapping,Kinematics,Learning and Adaptive Systems,marker tracking,Motion and Path Planning,Optimization,Optimization and Optimal Control Maeda2016RAL_Acquiring and Generalizing the Embodiment Mapping From Human Observations to Robot Skills RAL,robot imitation,robot kinematic structure,robot kinematics,Robot kinematics,robot learner,robot reproduction,robot skills,Service robots,Shape,task-specific costs,Trajectory},
+  pages = {784-791},
+  file = {/zoteropdf/pdf/Maeda2016RAL_Acquiring and Generalizing the Embodiment Mapping From Human Observations to Robot Skills.pdf}
+}

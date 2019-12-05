@@ -1,0 +1,17 @@
+
+
+
+@article{Maeda2017AURO,
+  title = {Probabilistic Movement Primitives for Coordination of Multiple Human\textendash{}Robot Collaborative Tasks},
+  volume = {41},
+  issn = {1573-7527},
+  abstract = {This paper proposes an interaction learning method for collaborative and assistive robots based on movement primitives. The method allows for both action recognition and human\textendash{}robot movement coordination. It uses imitation learning to construct a mixture model of human\textendash{}robot interaction primitives. This probabilistic model allows the assistive trajectory of the robot to be inferred from human observations. The method is scalable in relation to the number of tasks and can learn nonlinear correlations between the trajectories that describe the human\textendash{}robot interaction. We evaluated the method experimentally with a lightweight robot arm in a variety of assistive scenarios, including the coordinated handover of a bottle to a human, and the collaborative assembly of a toolbox. Potential applications of the method are personal caregiver robots, control of intelligent prosthetic devices, and robot coworkers in factories.},
+  number = {3},
+  journal = {Autonomous Robots},
+  doi = {10.1007/s10514-016-9556-2},
+  author = {Maeda, Guilherme J. and Neumann, Gerhard and Ewerton, Marco and Lioutikov, Rudolf and Kroemer, Oliver and Peters, Jan},
+  month = mar,
+  year = {2017},
+  pages = {593-612}
+}
+

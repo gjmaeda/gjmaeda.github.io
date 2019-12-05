@@ -1,0 +1,12 @@
+
+@article{maedaPracticalControlMethod2008,
+  title = {Practical Control Method for Ultra-Precision Positioning Using a Ballscrew Mechanism},
+  volume = {32},
+  number = {4},
+  journal = {Precision Engineering},
+  author = {Maeda, G.J. and Sato, K.},
+  year = {2008},
+  keywords = {maeda2008practical Practical control method ultra precision positioning using ballscrew mechanism},
+  pages = {309--318},
+  file = {/zoteropdf/pdf/maeda2008practical Practical control method  ultra precision positioning using  ballscrew mechanism.PDF}
+}

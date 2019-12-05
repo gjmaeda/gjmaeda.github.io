@@ -1,0 +1,7 @@
+@article{celeminReinforcementLearningMotor2019,
+  title = {Reinforcement {{Learning}} of {{Motor Skills}} Using {{Policy Search}} and {{Human Corrective Advice}}},
+  volume = {OnlineFirst},
+  journal = {International Journal of Robotics Research (IJRR)},
+  author = {Celemin, C. and Maeda, G. and {Ruiz-del-Solar}, J and Peters, J. and Kober, J.},
+  year = {2019},
+}

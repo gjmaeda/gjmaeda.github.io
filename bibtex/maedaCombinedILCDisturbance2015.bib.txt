@@ -1,0 +1,11 @@
+
+@article{maedaCombinedILCDisturbance2015,
+  title = {Combined {{ILC}} and {{Disturbance Observer}} for the {{Rejection}} of {{Near Repetitive}}-{{Disturbances}}, with {{Application}} to {{Excavation}}},
+  volume = {23},
+  number = {5},
+  journal = {IEEE Transactions on Control Systems Technology},
+  author = {Maeda, Guilherme and Manchester, Ian and Rye, David},
+  year = {2015},
+  pages = {1754--1769},
+  file = {/zoteropdf/pdf/Maeda2015Combined ILC Disturbance Observer Rejection Near Repetitive Disturbances Autonomous Excavation.pdf}
+}

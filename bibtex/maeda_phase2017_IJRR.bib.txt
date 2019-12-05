@@ -1,0 +1,14 @@
+
+
+@article{maeda_phase2017_IJRR,
+  title = {Phase Estimation for Fast Action Recognition and Trajectory Generation in Human\textendash{}Robot Collaboration},
+  volume = {36},
+  abstract = {This paper proposes a method to achieve fast and fluid human\textendash{}robot interaction by estimating the progress of the movement of the human. The method allows the progress, also referred to as the phase of the movement, to be estimated even when observations of the human are partial and occluded; a problem typically found when using motion capture systems in cluttered environments. By leveraging on the framework of Interaction Probabilistic Movement Primitives, phase estimation makes it possible to classify the human action, and to generate a corresponding robot trajectory before the human finishes his/her movement. The method is therefore suited for semi-autonomous robots acting as assistants and coworkers. Since observations may be sparse, our method is based on computing the probability of different phase candidates to find the phase that best aligns the Interaction Probabilistic Movement Primitives with the current observations. The method is fundamentally different from approaches based on Dynamic Time Warping that must rely on a consistent stream of measurements at runtime. The resulting framework can achieve phase estimation, action recognition and robot trajectory coordination using a single probabilistic representation. We evaluated the method using a seven-degree-of-freedom lightweight robot arm equipped with a five-finger hand in single and multi-task collaborative experiments. We compare the accuracy achieved by phase estimation with our previous method based on dynamic time warping.},
+  number = {13-14},
+  journal = {The International Journal of Robotics Research},
+  doi = {10.1177/0278364917693927},
+  author = {Maeda, Guilherme and Ewerton, Marco and Neumann, Gerhard and Lioutikov, Rudolf and Peters, Jan},
+  year = {2017},
+  pages = {1579-1594},
+  eprint = {https://doi.org/10.1177/0278364917693927}
+}

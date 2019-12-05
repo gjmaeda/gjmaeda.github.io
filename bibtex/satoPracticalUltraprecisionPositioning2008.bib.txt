@@ -1,0 +1,10 @@
+@article{satoPracticalUltraprecisionPositioning2008,
+  title = {Practical {{Ultraprecision Positioning}} of a {{Ball Screw Mechanism}}},
+  volume = {9},
+  number = {2},
+  journal = {International Journal of Precision Engineering and Manufacturing},
+  author = {Sato, K. and Maeda, G.J.},
+  year = {2008},
+  keywords = {sato2008practical Practical Ultraprecision Positioning of a Ball Screw Mechanism},
+  pages = {44--49}
+}
