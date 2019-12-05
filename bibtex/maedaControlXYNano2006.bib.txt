@@ -7,5 +7,4 @@
   author = {Maeda, G. and Sato, K. and Hashizume, H. and Shinshi, T.},
   year = {2006},
   pages = {21--27},
-  file = {/zoteropdf/pdf/maeda2006control of an XY nano positioning table for a compact nano machine tool.pdf}
 }

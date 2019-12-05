@@ -7,5 +7,4 @@
   author = {Maeda, Guilherme and Manchester, Ian and Rye, David},
   year = {2015},
   pages = {1754--1769},
-  file = {/zoteropdf/pdf/Maeda2015Combined ILC Disturbance Observer Rejection Near Repetitive Disturbances Autonomous Excavation.pdf}
 }

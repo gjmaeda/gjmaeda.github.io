@@ -8,5 +8,4 @@
   year = {2008},
   keywords = {maeda2008practical Practical control method ultra precision positioning using ballscrew mechanism},
   pages = {309--318},
-  file = {/zoteropdf/pdf/maeda2008practical Practical control method  ultra precision positioning using  ballscrew mechanism.PDF}
 }
