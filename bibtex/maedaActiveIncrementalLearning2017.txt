@@ -1,0 +1,8 @@
+@InProceedings{maedaActiveIncrementalLearning2017,
+Title = {Active Incremental Learning of Robot Movement Primitives},
+Author = {Maeda, G. and Ewerton, M. and Osa, T. and Busch, B. and and Peters, J.},
+Booktitle = {Proceedings of Machine Learning Research (PMLR) 1st Annual Conference on Robot Learning (CoRL)},
+Year = {2017},
+Pages = {37-46},
+Volume = {78: Conference on Robot Learning (CoRL)}
+}
