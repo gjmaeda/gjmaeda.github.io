@@ -6,25 +6,25 @@ from __future__ import division
 import Movie_Tools
 
 
-if 1: # generalization in real experiments
+if 0: # generalization in real experiments
 
     file_name = './Carlos/Human_robot_joint_learning.mp4'
 
     m = Movie_Tools.Movie_Tools(file_name, start_end = [2, 5], cropXY1 = [0,0], cropXY2 = [150000,150000])
     m.scale_sound(0)
-    m.brightness_scale(1.2)
-    m.resize_and_speed(2.5, 1.0)
+    m.brightness_scale(1.0)
+    m.resize_and_speed(2.0, 1.0)
     m.write_as_gif(fps=10)
 
-if 0: # generalization in real experiments
+if 1: # generalization in real experiments
 
-    file_name = 'Kang_playing.MOV'
+    file_name = './PPMP/small_video_fast.avi'
 
-    m = Movie_Tools.Movie_Tools(file_name, start_end = [42, 50], cropXY1 = [0,0], cropXY2 = [150000,150000])
+    m = Movie_Tools.Movie_Tools(file_name, start_end = [0.5, 5.5], cropXY1 = [0,0], cropXY2 = [150000,150000])
     m.scale_sound(0)
-    m.brightness_scale(1.2)
+    m.brightness_scale(1.0)
     m.resize_and_speed(2.5, 1.0)
-    m.write_as_gif(fps=10)
+    m.write_as_gif(fps=9)
 
 
 
