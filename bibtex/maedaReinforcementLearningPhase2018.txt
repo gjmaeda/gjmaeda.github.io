@@ -1,0 +1,11 @@
+@InProceedings{maedaReinforcementLearningPhase2018,
+author = {Maeda, G. and Koc, O. and Morimoto, J.},
+title = {Reinforcement Learning of Phase Oscillators for Fast Adaptation to Moving Targets},
+booktitle = {Proceedings of The 2nd Conference on Robot Learning},
+year = {2018},
+volume = {87},
+series = {Proceedings of Machine Learning Research},
+publisher = {PMLR},
+month = {29–31 Oct},
+pages = {630–640},
+}
