@@ -3427,11 +3427,14 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rJTbwxphx1 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-rJTbwxphx1 .mbr-text,
 .cid-rJTbwxphx1 blockquote {
   color: #767676;
+}
+.cid-rJTbwxphx1 .mbr-text {
+  color: #232323;
 }
