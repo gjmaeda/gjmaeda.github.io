@@ -1,0 +1,7 @@
+@article{maeda2019PPMP_preprint,
+  title={Phase Portraits as Movement Primitives for Fast Humanoid Robot Control},
+  author={Maeda, Guilherme and Koc, Okan and Morimoto, Jun},
+  journal={arXiv preprint arXiv:1912.03535},
+  year={2019}
+}
+
