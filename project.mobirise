@@ -965,7 +965,7 @@
                 "contentAlign": "left",
                 "text": "This work uses the consistency of the progress among different examples and viewpoints of a task to train a deep neural network to map images into measurable features. Our method builds upon Time-Contrastive Networks (TCNs), originally proposed as a representation for continuous visuomotor skill learning, to train the network using only discrete snapshots taken at different stages of a task. The intent is to make the network sensitive to differences in task phases. We associate these embeddings to a sequence of images representing gradual task accomplishment, allowing a robot to iteratively query its motion planner with the current visual state to solve long-horizon tasks. <br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://arxiv.org/pdf/2003.06977\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> Pre-print 2020</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"./research/invariant_task_progress_estimation/task_progress_estimation_1min.mp4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> video</a> ",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.4"
               }
             ]
           }
