@@ -864,11 +864,11 @@
           "_params": {
             "slides__autoplay": "false",
             "slides__autoplayInterval": "4000",
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -883,7 +883,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Animals plan complex motor actions not only fast but seemingly with little effort even on unseen tasks. This natural sense of time and coordination motivates us to approach robot control from a motor skill learning perspective to design fast and computationally light controllers that can be learned autonomously by the robot under mild modeling assumptions.  \n<br>\n<br>We propose Phase Portrait Movement Primitives. A new primitive representation that includes a phase predictor that can be trained to adapt the timings of the robot's actions. We tested the method on a task comprising 20 degrees-of-freedom using a hydraulic upper body humanoid.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"ppmp.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here for details and videos (2020)</a>   ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"ppmp.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here for details and videos</a>   ",
                 "overlayOpacity": "0.4"
               },
               {
@@ -924,7 +924,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "A research project led by Carlos Celemin (now at TU Delft) regarding a human-in-the-loop approach where human feedback can come at any time during the execution of an exploration roll-out. The human feedback can also come sporadically, where most of the roll-outs do not even need to include human feedback. This human feedback is seamlessly incorporated into the policy update as an informed/biased exploration noise. The learning rate increases by factors of 4 to 40 times depending on the task. You can find the details of method in the journal.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"./pdf/celeminReinforcementLearningMotor2019.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IJRR 2019 article</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"./pdf/celeminReinforcementLearningMotor2019.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IJRR article</a> ",
                 "overlayOpacity": "0.3"
               },
               {
@@ -940,32 +940,12 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "Interaction ProMPs for Human-Robot Collaboration <br><br>",
+                "textTitle": "Interaction ProMPs for Human-Robot Collaboration",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "&nbsp;An interaction learning method for collaborative and assistive robots based on movement primitives. Our method allows for both action recognition and human–robot movement coordination. It uses imitation learning to construct a mixture model of human–robot interaction primitives. This probabilistic model allows the assistive trajectory of the robot to be inferred from human observations. \n<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"./pdf/Maeda2017AURO.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> introducing Interaction ProMP (AURO 2015 article)&nbsp;</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"./pdf/maeda_phase2017_IJRR.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Action recognition with Interaction ProMPs (IJRR 2017 article)</a>",
+                "text": "&nbsp;An interaction learning method for collaborative and assistive robots based on movement primitives. Our method allows for both action recognition and human–robot movement coordination. It uses imitation learning to construct a mixture model of human–robot interaction primitives. This probabilistic model allows the assistive trajectory of the robot to be inferred from human observations. \n<br>\n<br>Potential applications of the method are personal caregiver robots, control of intelligent prosthetic devices, and robot coworkers in factories. \n<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"./pdf/Maeda2017AURO.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> introducing Interaction ProMP (AURO article)&nbsp;</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"./pdf/maeda_phase2017_IJRR.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Action recognition with Interaction ProMPs (IJRR article)</a>",
                 "overlayOpacity": "0.4"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/icon2.gif",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/NWdLHAH4fSQ",
-                "customStyle1": "display-2",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "Visual Task Progress Estimation with Appearance Invariant\r Embeddings for Robot Control and Planning<br><br>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "This work uses the consistency of the progress among different examples and viewpoints of a task to train a deep neural network to map images into measurable features. Our method builds upon Time-Contrastive Networks (TCNs), originally proposed as a representation for continuous visuomotor skill learning, to train the network using only discrete snapshots taken at different stages of a task. The intent is to make the network sensitive to differences in task phases. We associate these embeddings to a sequence of images representing gradual task accomplishment, allowing a robot to iteratively query its motion planner with the current visual state to solve long-horizon tasks. <br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://arxiv.org/pdf/2003.06977\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> Pre-print 2020</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"./research/invariant_task_progress_estimation/task_progress_estimation_1min.mp4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> video</a> ",
-                "overlayOpacity": "0.7"
               }
             ]
           }
