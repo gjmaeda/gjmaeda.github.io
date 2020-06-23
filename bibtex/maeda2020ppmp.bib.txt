@@ -1,0 +1,8 @@
+@article{maeda2020ppmp,
+	title = {Phase portraits as movement primitives for fast humanoid robot control},
+	volume = {129},
+	journal = {Neural Networks},
+	author = {Maeda, Guilherme and Koc, Okan and Morimoto, Jun},
+	year = {2020},
+	pages = {109--122},
+}
