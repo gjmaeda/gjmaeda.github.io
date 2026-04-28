@@ -58,6 +58,8 @@
     "mbrsiteDomain": "pm1lgsjpu8",
     "cookiesAlert": false,
     "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "usedWebp": false
   },
   "pages": {
