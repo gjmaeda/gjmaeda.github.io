@@ -55,11 +55,10 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "imageResize": true,
-    "mbrsiteDomain": "6rdeyp69xy",
+    "mbrsiteDomain": "pm1lgsjpu8",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishType": "local",
-    "publishPath": "file:///home/gjmaeda/Documents/website_test"
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
