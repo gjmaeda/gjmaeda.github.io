@@ -1,0 +1,10 @@
+@article{durr2026outplaying,
+  title = {Outplaying Elite Table Tennis Players With an Autonomous Robot},
+  doi = {10.1038/s41586-026-10338-5},
+  journaltitle = {Nature},
+  date = {2026},
+  author = {Dürr, Peter and El Gheche, Mireille and Maeda, Guilherme Jorge and Mukai, Nobuhiko and Takahashi, Naoya and Heusser, Stefan and Sahloul, Hamdi and Saraiji, Yamen and Adodin, Pavel and Bi, Yin and Blakeman, Sam and Conti, Christian and Fuentes Hitos, Dunai and Hu, Yunpu and Khadivar, Farshad and Kreiser, Raphaela and Martinez, Luz and Schilling, Fabian and Tapiador Morales, Ricardo and Torrente, Guillem and Ynocente Castro, Mario and Abecassis, Lison and Giammarino, Alberto and Huang, Yu-Ting and Nagel, Yannik and Scotti, Andrea and Sigrist, Alexander and Silva, Tiago and Walther, Etienne and Wong, Jengyan and Yang, Bilan and Aydin, Asude and Grover, Divij and Saha, Apurv and Cavinato, Valentina and Kakinuma, Takekazu and Kunori, Taishi and Monferrato, Valentin and Richter, Stefan and Charalambous, Stefanos and Guist, Simon and Kuhlmann-Jorgensen, Mads Alber and Miele, Lorenzo and Politis, Agis and Scardecchia, Mattia and Kitano, Hiroaki and Wurman, Peter R. and Stone, Peter and Spranger, Michael},
+  volume = {652},
+  number = {8111},
+  pages = {886--891}
+}
