@@ -680,12 +680,12 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #465052;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #465052;
+  background: #ffffff;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -769,7 +769,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #465052;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1067,28 +1067,31 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rJBn3T8pcH {
+.cid-viapytqm3S {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/banner3-sharp-1299x626.jpg");
+  background-image: url("../../../assets/images/ace-1-1515x878.png");
 }
-.cid-rJBn3T8pcH P {
+.cid-viapytqm3S P {
   color: #767676;
 }
-.cid-rJBn3T8pcH H1 {
+.cid-viapytqm3S H1 {
   color: #f7ed4a;
   text-align: left;
 }
-.cid-rJBn3T8pcH .mbr-text,
-.cid-rJBn3T8pcH .mbr-section-btn {
+.cid-viapytqm3S .mbr-text,
+.cid-viapytqm3S .mbr-section-btn {
   color: #f9f295;
   text-align: left;
 }
-.cid-rJBn3T8pcH H3 {
+.cid-viapytqm3S H3 {
   color: #232323;
 }
-.cid-rJBn3T8pcH DIV {
-  text-align: left;
+.cid-viapytqm3S DIV {
+  text-align: justify;
+}
+.cid-viapytqm3S H2 {
+  color: #232323;
 }
 .cid-rJNkonYHDL {
   padding-top: 30px;
@@ -2286,12 +2289,12 @@ section.lazy-placeholder:after {
 }
 .cid-rJTbhzoMgV .navbar {
   padding: .5rem 0;
-  background: #465052;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-rJTbhzoMgV .navbar-dropdown.bg-color.transparent.opened {
-  background: #465052;
+  background: #ffffff;
 }
 .cid-rJTbhzoMgV a {
   font-style: normal;
@@ -2375,7 +2378,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rJTbhzoMgV .dropdown .dropdown-menu {
-  background: #465052;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
